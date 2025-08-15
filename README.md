@@ -5,7 +5,7 @@
 - 🎓 Graduated **B.E. in Computer Science**  at S.G. Balekundri Institute of Technology, Belagavi.    
 - 💞️ I’m looking to collaborate on **Data Science, AI, and Analytics projects** that solve real-world problems.  
 - 📫 Reach me at **(mail: abhishekhajagolkar523@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/abhishek-hajagolkar-58a6932a8)** 
-- 🌍 Based in **Belagavi, Karnataka** Curent Location **Pune, Maharashtra**  | Open to opportunities across India & Remote.  
+- 🌍 Based in **Belagavi, Karnataka** ,Curent Location **Pune, Maharashtra**  | Open to opportunities across India & Remote.  
 
 ---
 
