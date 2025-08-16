@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abhishek Raju Hajagolkar  
 
-- 🚀 **Aspiring Data Scientist & AI Enthusiast** — passionate about turning raw data into meaningful insights and AI-powered solutions.  
+- 🚀 **Aspiring Data Scientist, ML & GEN-AI Enthusiast** — passionate about turning raw data into meaningful insights and AI-powered solutions.  
 - 📊 Skilled in **Python, SQL, Machine Learning, Data Analysis, and Generative AI**.  
 - 🎓 Graduated **B.E. in Computer Science**  at S.G. Balekundri Institute of Technology, Belagavi.    
 - 💞️ I’m looking to collaborate on **Data Science, AI, and Analytics projects** that solve real-world problems.  
