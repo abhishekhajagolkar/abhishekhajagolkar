@@ -20,4 +20,4 @@
 
 ---
 
-💡 **"Data is the new oil, but only if refined with the right skills."**  
+# "Data is the new oil, but only if refined with the right skills."
